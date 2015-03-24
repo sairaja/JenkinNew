@@ -6,5 +6,5 @@ import org.junit.runners.Suite;
 
 @Suite.SuiteClasses({AmazonAutomationTest.class,FacebookAutomation.class,GmailAutomation.class,Linkedln.class})
 
-public class Testsuite {   
+public class Testsuite {  	
 }  	
